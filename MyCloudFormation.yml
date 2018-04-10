@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: '2010-09-09'
 
-Description: Cloudformation template to create VPC
+Description: Cloudformation template to create VPC private and public subnet 
 Parameters:
   KeyPair:
     Type: AWS::EC2::KeyPair::KeyName
